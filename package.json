@@ -1,0 +1,24 @@
+{
+  "name": "telr",
+  "version": "1.0.2",
+  "description": "sdfsdfd ",
+  "main": "index.js",
+  "dependencies": {
+    "cordova-plugin-whitelist": "^1.3.3-dev"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/arshad2010/Telr.git"
+  },
+  "keywords": [
+    "ionic",
+    "cordova",
+    "phoneGap"
+  ],
+  "author": "arshad",
+  "license": "ISC"
+}
